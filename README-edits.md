@@ -1,3 +1,1 @@
-# hello-world
-hello!
-end file
+This repo is for C++ related programs.
